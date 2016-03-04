@@ -1,7 +1,7 @@
 # The Gold Rush
-## CSS nuggets
+## CSS gold nuggets
 
-Slides about 5 CSS topics:
+Slides on 5 CSS topics:
 
 * Bye bye -prefix-
 * Grid layout
